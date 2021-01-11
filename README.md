@@ -18,7 +18,7 @@
 <br />
 <br />
 
-### :zap: GitHub Stats
+### :zap: Stats
 
-  <img align="left" alt="Youniz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Youniz&&show_icons=true&title_color=007FFF&icon_color=007FFF&text_color=000000&bg_color=fffff&hide_border=true" />
+<img align="left" alt="Youniz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Youniz&&show_icons=true&title_color=007FFF&icon_color=007FFF&text_color=000000&bg_color=fffff&hide_border=true" />
 
