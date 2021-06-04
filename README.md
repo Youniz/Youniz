@@ -1,9 +1,9 @@
 ### **Hi there, I'm Youniz 👋**
 
 - **Developer | Student | Learner**
-- Currently learning **Java** and **Pyhton**
+- Currently learning **Java**
 - Currently working on a public discord bot!
-- You can contact me on Discord: **Youniz#0001**
+- You can contact me on Discord: **Youniz#6267**
 
 <br />
 
