@@ -1,9 +1,8 @@
 ### **Hi there, I'm Youniz 👋**
 
 - **Developer | Student | Learner**
-- Currently learning **Java**
 - Currently working on a public discord bot!
-- You can contact me on Discord: **Youniz#0001**
+- You can contact me on Discord: **Youniz#2655**
 
 <br />
 
@@ -21,4 +20,3 @@
 ### :zap: Stats
 
 <img align="left" alt="Youniz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Youniz&show_icons=true&theme=default" />
-
